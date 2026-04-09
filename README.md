@@ -7,13 +7,25 @@ Fig. 8: Proposed assessment tool showing smart health use case (page1).
 
 ![Fig. 9: Proposed assessment tool showing smart health use case (page2).](images/framework-p2.png)
 
+Fig. 9: Proposed assessment tool showing smart health use case (page2).
+
 ![Fig. 10: Proposed assessment tool showing smart health use case (page3).](images/framework-p3.png)
+
+Fig. 10: Proposed assessment tool showing smart health use case (page3).
 
 ![Fig. 11: Proposed assessment tool showing smart health use case (page4).](images/framework-p4.png)
 
+Fig. 11: Proposed assessment tool showing smart health use case (page4).
+
 ![Fig. 12: Proposed assessment tool showing smart health use case (page5).](images/framework-p5.png)
+
+Fig. 12: Proposed assessment tool showing smart health use case (page5).
 
 ![Fig. 13: Proposed assessment tool showing smart health use case (page6).](images/framework-p6.png)
 
+Fig. 13: Proposed assessment tool showing smart health use case (page6).
+
 ![Fig. 14: Proposed assessment tool showing smart health use case (page7).](images/framework-p7.png)
+
+Fig. 14: Proposed assessment tool showing smart health use case (page7).
 
