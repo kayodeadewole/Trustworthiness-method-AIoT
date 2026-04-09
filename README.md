@@ -3,6 +3,8 @@ This repository provides an appendix for our paper titled **An Assessment Method
 
 ![Fig. 8: Proposed assessment tool showing smart health use case (page1).](images/framework-p1.png)
 
+Fig. 8: Proposed assessment tool showing smart health use case (page1).
+
 ![Fig. 9: Proposed assessment tool showing smart health use case (page2).](images/framework-p2.png)
 
 ![Fig. 10: Proposed assessment tool showing smart health use case (page3).](images/framework-p3.png)
